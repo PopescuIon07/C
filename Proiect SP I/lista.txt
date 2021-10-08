@@ -1,0 +1,5 @@
+1    Opel    Astra   100_lei/zi 
+2    Mazda   3       110_lei/zi  
+3    Audi    A4      150_lei/zi 
+4    Opel    Corsa   105_lei/zi 
+5    Audi    A3      125_lei/zi
